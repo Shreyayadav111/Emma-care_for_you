@@ -88,3 +88,35 @@ npm install --save groq-sdk
 
 # Start development server
 npm run dev
+```
+## 🧬 Future Scope
+
+**Planned improvements, extensions, and follow-up features:**
+
+- 📈 **Memory Preservation Feature**  
+  Conversational simulation with loved ones for emotional continuity and healing.
+
+- 🛡️ **Enhanced Security & Compliance**  
+  Full HIPAA/GDPR compliance for handling sensitive mental health data.
+
+- 🌐 **Localization & Accessibility**  
+  Multilingual support to reach and support users globally.
+
+---
+
+## 📎 Resources / Credits
+
+- Inspired by **WHO** and **NIMHANS** mental health frameworks  
+- Libraries & tools: **React, Node.js, Express, Vercel**  
+- Special thanks to **Groq** for LPU API credits  
+- Open-source art libraries for the expression canvas  
+
+---
+
+## 🏁 Final Words
+
+This hackathon journey helped us blend **technology with human empathy**.  
+From late-night brainstorming sessions to overcoming technical challenges, the experience was both meaningful and rewarding.
+
+A heartfelt thank you to the mentors, organizers, and fellow participants who inspired us every step
+
